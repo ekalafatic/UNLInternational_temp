@@ -14,7 +14,6 @@ The code is temporarily private until the project is presented
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.imgflip.com/461mde.gif" />
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.imgflip.com/461mbk.gif" />
 
-https://i.imgflip.com/461m2s.gif
 
 --------------------------------
 
