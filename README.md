@@ -1,5 +1,5 @@
 # UNLInternational_temp
-Mobile application developed with Flutter framework for manage lodgings for exchange students at the Universidad Nacional del Litoral (https://www.unl.edu.ar)
+Android and iOS application developed using Flutter Framework and Firebase to administrate universities lodgings
 
 The code is temporarily private until the project is presented
 
