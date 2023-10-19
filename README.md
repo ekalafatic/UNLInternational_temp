@@ -3,6 +3,8 @@ Android and iOS application developed using Flutter Framework and Firebase to ad
 
 The code is temporarily private until the project is presented
 
+Application review: https://youtu.be/U2xv0qmK29k
+
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.imgflip.com/461ljr.gif" />
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.imgflip.com/461luc.gif" />
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.imgflip.com/461lw4.gif" />
