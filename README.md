@@ -1,4 +1,4 @@
-# UNLInternational_temp
+# UNLInternational
 Android and iOS application developed using Flutter Framework, Spring Boot, PostgreSQL and Firebase to manage university accommodations
 
 The code is temporarily private until the project is presented
